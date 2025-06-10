@@ -1,4 +1,4 @@
-# Analitca de datos para negocios digitales 
+# Analitica de datos para negocios digitales 
 En este repositorio se encuentra informacion en relacion al analisis de datos utilizando como tecnologia python.
 Se puede encontrar informacion de los siguientes temas:
 1. Introducción al analisis de los grandes volumenes de datos.
