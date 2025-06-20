@@ -11,8 +11,8 @@
   DTS:LocaleID="2058"
   DTS:ObjectName="Limpiar_Datamart"
   DTS:PackageType="5"
-  DTS:VersionBuild="11"
-  DTS:VersionGUID="{7F861B69-FE0A-478F-9B85-89EB3422E2C3}">
+  DTS:VersionBuild="13"
+  DTS:VersionGUID="{DA7E1648-6A6B-4ED4-9B29-E0931E4E5C48}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -189,14 +189,14 @@
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,68.4666659012768"
+              EndConnector="0,68.4666659012771"
               Start="0,0"
-              End="0,60.9666659012768">
+              End="0,60.9666659012771">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,60.9666659012768" />
+                    End="0,60.9666659012771" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
